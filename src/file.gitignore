@@ -1,0 +1,6 @@
+# .idea folder
+\.idea\
+
+
+git rm -r --cached .
+System.Out
