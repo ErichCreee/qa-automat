@@ -1,7 +1,11 @@
 package Lession2;
 
 public class Task1 {
-    public static void main (String[] args) {
+    public static void main () {
+        main(null);
+    }
+
+    public static void main(String[] args) {
         System.out.print("\t\tРУБАИ\n");
         System.out.println("Много лет размышлял я над жизнью земной.");
         System.out.println("Непонятного нет для меня под луной.");
