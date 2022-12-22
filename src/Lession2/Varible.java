@@ -5,7 +5,7 @@ public class Varible {
 
         byte myByte;
 
-        myByte = 6 ;
+        myByte = 6;
 
         byte mybyte = -128;
 
@@ -39,6 +39,6 @@ public class Varible {
 
     }
 
-    }
+}
 
 
