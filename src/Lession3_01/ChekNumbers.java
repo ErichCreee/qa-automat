@@ -12,9 +12,9 @@ public class ChekNumbers {
         number = input.nextInt();
 
         if (number % 2 == 0) {
-            System.out.println("Число " + number + " - Чётное");
+            System.out.println("Number " + number + " - is even");
         } else {
-            System.out.println("Число " + number + " - Нечётное");
+            System.out.println("Number " + number + " - is odd");
         }
 
     }
