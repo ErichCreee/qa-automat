@@ -18,10 +18,10 @@ public class random {
         System.out.println("randomIntegerWithBound = " + randomIntegerWithBound);
         System.out.println("randomDouble = " + randomDouble);*/
 
-        int randomIntegerWithBound = threadLocalRandom.nextInt(10,20);
+        int randomIntegerWithBound = threadLocalRandom.nextInt(10, 20);
         System.out.println("randomIntegerWithBound = " + randomIntegerWithBound);
 
     }
 
-
 }
+
