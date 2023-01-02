@@ -20,7 +20,7 @@ public class random {
 
         int randomIntegerWithBound = threadLocalRandom.nextInt(10,20);
         System.out.println("randomIntegerWithBound = " + randomIntegerWithBound);
-        
+
     }
 
 
